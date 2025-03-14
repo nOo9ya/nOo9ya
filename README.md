@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 <a href="https://github.com/nOo9ya">
@@ -9,9 +9,9 @@
 </a>
 -->
 
-<a href="https://github.com/nOo9ya">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=16&card_width=700" />
-</a>
+<div>
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&card_width=640" />
+</div>
 
 
 
