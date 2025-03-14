@@ -10,7 +10,7 @@
 -->
 
 <a href="https://github.com/nOo9ya">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=12" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=16&card_width=400" />
 </a>
 
 
