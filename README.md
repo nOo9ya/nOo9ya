@@ -9,9 +9,12 @@
 </a>
 -->
 
+<!--
 <a href="https://github.com/nOo9ya" style="align:center">
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&card_width=640" />
 </a>
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noo9ya&langs_count=22&card_width=640)](https://github.com/nOo9ya)
 
 
 
