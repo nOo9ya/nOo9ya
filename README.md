@@ -16,7 +16,7 @@
 -->
 
 <a href="https://github.com/nOo9ya" style="display:block; align:center; margin-bottom:2rem">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&card_width=640" style="max-width: 100%; min-width:100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&card_width=1200" style="max-width: 100%; min-width:100%" />
 </a>
 <br /><br />
 
