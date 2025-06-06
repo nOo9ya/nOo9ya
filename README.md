@@ -15,12 +15,27 @@
 </a>
 -->
 
+<!--
 <a href="https://github.com/nOo9ya" style="display:block; align:center; margin-bottom:2rem">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&card_width=1200" style="max-width: 100%; min-width:100%" />
 </a>
 <br /><br />
 
 [![nOo9ya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact)](https://github.com/nOo9ya)
+-->
+
+<a href="https://github.com/nOo9ya" style="display:block; text-align:center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nOo9ya&layout=compact&langs_count=22&show_icons=true&card_width=500" style="max-width:100%" />
+</a>
+<!--
+<a href="https://github.com/nOo9ya">
+  <img src="https://github-readme-stats.vercel.app/api?username=nOo9ya&show_icons=true" width=56% />
+</a>
+-->
+<a href="https://github.com/nOo9ya" style="display:block; text-align:center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact&hide_border=true" width="94%" />
+</a>
+
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
