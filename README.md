@@ -32,8 +32,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nOo9ya&show_icons=true" width=56% />
 </a>
 -->
+<br /><br />
+
 <a href="https://github.com/nOo9ya" style="display:block; text-align:center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=dracula&hide_border=true&days=60" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact&hide_border=true&days=60" width="98%" />
 </a>
 
 <!--
