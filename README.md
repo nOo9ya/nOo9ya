@@ -37,8 +37,7 @@
 
 </div>
 
-
-<br /><br />
+<br />
 
 <a href="https://github.com/nOo9ya" style="display:block; text-align:center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact&hide_border=true&days=60" width="98%" />
