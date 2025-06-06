@@ -14,10 +14,13 @@
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&card_width=640" />
 </a>
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noo9ya&langs_count=22&card_width=640)](https://github.com/nOo9ya)
 
+<a href="https://github.com/nOo9ya" style="display:block; align:center; margin-bottom:2rem">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&card_width=1012" style="max-width: 100%; min-width:100%" />
+</a>
+<br /><br />
 
-
+[![nOo9ya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact)](https://github.com/nOo9ya)
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
