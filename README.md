@@ -25,7 +25,7 @@
 -->
 
 <a href="https://github.com/nOo9ya" style="display:block; text-align:center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nOo9ya&layout=compact&langs_count=22&show_icons=true&card_width=500" style="max-width:100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&show_icons=true&card_width=500" style="max-width:100%" />
 </a>
 <!--
 <a href="https://github.com/nOo9ya">
