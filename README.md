@@ -33,7 +33,7 @@
 </a>
 -->
 <a href="https://github.com/nOo9ya" style="display:block; text-align:center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact&hide_border=true" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact&hide_border=true&days=90" width="98%" />
 </a>
 
 
