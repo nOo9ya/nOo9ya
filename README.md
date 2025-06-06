@@ -33,9 +33,8 @@
 </a>
 -->
 <a href="https://github.com/nOo9ya" style="display:block; text-align:center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact&hide_border=true&days=60" width="98%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=dracula&hide_border=true&days=60" width="98%" />
 </a>
-
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
