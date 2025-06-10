@@ -24,13 +24,13 @@
 [![nOo9ya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact)](https://github.com/nOo9ya)
 -->
 
-<!--
+
 <div style="display: flex; flex-direction: row; flex-wrap:wrap; justify-content: space-evenly; align-content: cneter; align-items: center;">
   
   <a href="https://github.com/nOo9ya" style="display:flex; text-align:center' width:44%;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nOo9ya&layout=compact&langs_count=22&show_icons=true&card_width=500" style="max-width:100%" />
   </a>
--->
+
 
 <!--
 <a href="https://github.com/nOo9ya" style="display:flex; width:40%">
@@ -40,11 +40,14 @@
 
 </div>
 
+
+<!--
 <br />
 
 <a href="https://github.com/nOo9ya" style="display:block; text-align:center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=nOo9ya&theme=github-compact&hide_border=true&days=60" width="98%" />
 </a>
+-->
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
